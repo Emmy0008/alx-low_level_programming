@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+/**
+ * programme to display output using printf() function
+ *
+ */
+
+printf("Programming is like building a multilingual puzzle");
+return (0);
